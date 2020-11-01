@@ -7,6 +7,7 @@ Elmanager is written in C#.
 Windows 7/8/10.
 
 ## Installation
+
 Unzip `Elmanager.zip` to any directory, such as `C:\Elma\Elmanager`. Program settings are also saved in this directory.
 
 ## Features
